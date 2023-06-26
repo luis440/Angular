@@ -1,0 +1,6 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -40,3 +40,4 @@
+ # System files
+ .DS_Store
+ Thumbs.db
++src/assets/LESS/top_navigation.less
